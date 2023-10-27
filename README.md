@@ -9,6 +9,6 @@
 # Requirements
 ### Appium_Python_Client==3.1.0
 ### selenium==4.14.0
-### Appium Server
+### Appium Server(Or Node.js)
 ### Jdk Last Version
 ### Jre1.8.0_351

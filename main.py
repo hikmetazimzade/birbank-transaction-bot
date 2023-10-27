@@ -22,8 +22,6 @@ class Birbank:
 
         self.driver = webdriver.Remote(command_executor = 'http://localhost:4724/wd/hub', options = capabilities_options)
         self.sequel = True
-        while self.sequel:
-            self.Choice()
 
     def Choice(self):
         choice = input("1-To The Any Card Of Bank\n2-Between your Cards And Accounts\n"
@@ -38,3 +36,6 @@ class Birbank:
 
 
 birbank = Birbank()
+
+while birbank.sequel:
+    birbank.Choice()

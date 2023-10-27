@@ -20,7 +20,7 @@ class Birbank:
         }
         capabilities_options = UiAutomator2Options().load_capabilities(desired_caps)
 
-        self.driver = webdriver.Remote(command_executor = 'http://localhost:4724/wd/hub', options = capabilities_options)
+        self.driver = webdriver.Remote(command_executor = 'http://localhost:4723/wd/hub', options = capabilities_options)
         self.sequel = True
 
     def Choice(self):

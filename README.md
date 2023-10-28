@@ -1,5 +1,5 @@
 # Birbank-Bot
-## It's a Birbank Automation coded in python by using selenium. It will make your money transfers much easier.
+## It's a Birbank Automation coded in python by using selenium and appium. It will make your money transfers much easier.
 
 # Features
 * ### Make Money Transfers Your Own Cards

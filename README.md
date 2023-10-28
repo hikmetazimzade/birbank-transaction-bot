@@ -2,7 +2,7 @@
 ## It's a Birbank Automation coded in python by using selenium and appium. It will make your money transfers much easier.
 
 # Features
-* ### Make Money Transfers Your Own Cards
+* ### Make Money Transfers Between Your Own Cards
 * ### Easily Send Money Any Card You Want
 * ### Transfer Money To Your Mobile Number
 

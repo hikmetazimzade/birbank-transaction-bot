@@ -16,7 +16,7 @@ class Birbank:
 
         desired_caps = {
             'platformName': "Android",
-            'deviceName': "27de7021"
+            'deviceName': "your_device"
         }
         capabilities_options = UiAutomator2Options().load_capabilities(desired_caps)
 
